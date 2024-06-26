@@ -1,0 +1,26 @@
+Course Project - 250 points
+
+Instructions
+Due at the end of Week Four:
+
+Option 2
+
+Create a Python tool to automate security-related functions.
+
+Project can be completed as a group (up to 4 students).
+
+Deliverables:
+-Project plan and scope
+-The tool along with a demonstration of the tool.
+-Students can continue a project from CYB 216.
+-Project Guidance
+
+All code should be well documented in accordance with commonly accepted standards.
+
+For option 2 you must create a github repository (Week 4 videos provide guidance). The link to your repository should be included in the project plan.
+
+Project plan and scope should include:
+-Project Goals
+-The problem you are solving (i.e. automate data extraction from a pcap file).
+-Expected outcomes and deliverable
+-Timeline
