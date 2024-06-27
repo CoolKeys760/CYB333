@@ -13,7 +13,8 @@ Deliverables:
 -Project plan and scope
 -The tool along with a demonstration of the tool.
 -Students can continue a project from CYB 216.
--Project Guidance
+
+Project Guidance
 
 All code should be well documented in accordance with commonly accepted standards.
 
