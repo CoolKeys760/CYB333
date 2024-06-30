@@ -6,10 +6,10 @@ This project is designed to look up the vendor information for a list of MAC add
 
 - **V1.1** - Project from CYB333 with additional notes
 - **V1.2** - Added check online for updated oui.txt from ieee.org and option to download
-- **V1.3** - Added functionality to save the results to a file (`results.txt`)
-- **V1.4** - Improved error handling to ensure `oui.txt` is downloaded if it does not exist
-- **V1.5** - Added encoding handling to prevent `UnicodeDecodeError` when reading `oui.txt`
-- **V1.6** - Added check to ensure `macs.txt` exists before processing
+- **V1.2.1** - Added functionality to save the results to a file (`results.txt`)
+- **V1.2.2** - Improved error handling to ensure `oui.txt` is downloaded if it does not exist
+- **V1.2.3** - Added encoding handling to prevent `UnicodeDecodeError` when reading `oui.txt`
+- **V1.2.4** - Added check to ensure `macs.txt` exists before processing
 
 ## Usage
 
