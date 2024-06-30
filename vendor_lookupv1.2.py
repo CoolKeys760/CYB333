@@ -1,3 +1,7 @@
+# names:  Shawn Jung, Nathan Kovach, Robert Orona, and Mark Sanchez
+# date: June 29th, 2024
+# assignment title: Course Project
+
 import os
 import time
 import urllib.request
@@ -6,6 +10,7 @@ import urllib.request
 directory = 'C:\\Users\\ROB2\\CYBB333\\Final Project'
 urlstr = 'https://standards-oui.ieee.org/oui/oui.txt'  # URL of IEEE OUI listing
 fname = os.path.join(directory, 'oui.txt')  # filename for oui listing
+
 
 def download_oui_file():
     oui = urllib.request.urlopen(urlstr)
@@ -18,6 +23,7 @@ def download_oui_file():
             size = size + len(info)
             fhand.write(info)
     print('Success!', size, 'characters copied to', fname, '\n')
+
 
 print('\nChecking for updates to Organizationally Unique Identifier (OUI) Listing (oui.txt).....\n')
 
